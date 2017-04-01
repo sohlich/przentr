@@ -1,0 +1,38 @@
+.logo{
+    margin: 3em;
+}
+
+.motto{
+
+    font-family: "Rubik",sans-serif;
+    font-size: 6em;
+    font-weight: 900;
+    letter-spacing: -0.1em;
+    line-height: .8;
+    color: white;
+    text-transform: uppercase;
+}
+
+.index{
+    background: url('/resource/back.jpg');
+    background-size:cover;
+}
+
+.slides{
+    font-size: 200%;
+}
+
+.fullscreen{
+    min-height: 100%;
+    min-height: 100vh;
+    min-width: 100%;
+    min-width: 100vh;
+}
+
+.vertical-center {
+    min-height: 100%;
+    min-height: 100vh;
+
+    display: flex;
+    align-items: center;
+}
